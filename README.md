@@ -7,4 +7,4 @@ this is good guide to start work: https://evanwill.github.io/go-go-ghpages/2-bas
 and in that link said:
 > All Markdown files in the repo will also be rendered to HTML using the default GitHub theme. If there is an index.md or index.html it will be served as the index page, otherwise README.md will be.
 
-
+also good site for simle images: https://dummyimage.com/
