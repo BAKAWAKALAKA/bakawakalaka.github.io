@@ -3,6 +3,7 @@ test github pages
 
 site autamaticly upload from repository after some minutes, so quick changes will show after this time
 
+http://jmcglone.com/guides/github-pages/ - tutorial
 this is good guide to start work: https://evanwill.github.io/go-go-ghpages/2-basic.html
 and in the link we can see:
 > All Markdown files in the repo will also be rendered to HTML using the default GitHub theme. If there is an index.md or index.html it will be served as the index page, otherwise README.md will be.
