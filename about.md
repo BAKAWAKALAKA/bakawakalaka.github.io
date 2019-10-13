@@ -1,5 +1,6 @@
 ---
 title: About
+theme: jekyll-theme-cayman
 ---
 
 # About this project
